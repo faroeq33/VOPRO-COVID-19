@@ -1,6 +1,8 @@
 <?php 
+echo "<h1>" . $input . "</h1>";
 
 $curl = curl_init();
+
 curl_setopt_array($curl, array(
 	CURLOPT_URL => "https://covid-193.p.rapidapi.com/" . $input,
 	CURLOPT_RETURNTRANSFER => true,
@@ -30,6 +32,6 @@ if ($err) {
   $coronanew = $coronadata->getData();
 
   echo "<pre>";
-var_dump($coronanew);
+print_r($coronanew);
   echo "</pre>";
 }

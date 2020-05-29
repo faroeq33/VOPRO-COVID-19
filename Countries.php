@@ -6,12 +6,15 @@
 </head>
 <body>
 	<a href="index.php">Terug naar home</a>
+	
+	<?php
+	require 'init.php';
+
+	$input = "countries";
+
+	include "request.php";
+	?>
 </body>
 </html>
 
-<?php
-require 'init.php';
 
-$input = "countries";
-
-include "request.php";

@@ -6,12 +6,13 @@
 </head>
 <body>
 	<a href="index.php">Terug naar home</a>
+	
+	<?php  
+	require 'init.php';
+
+	$input = "history?day=2020-05-29&country=usa";
+
+	include "request.php";
+	?>
 </body>
 </html>
-
-<?php
-require 'init.php';
-
-$input = "history?day=2020-05-29&country=usa";
-
-include "request.php";

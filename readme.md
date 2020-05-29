@@ -8,17 +8,20 @@ git clone https://github.com/faroeq33/VOPRO-COVID-19.git
 
 ## Veranderingen pushen
 
-###Wijzigingen Stagen
+### Wijzigingen Stagen
+Ga naar je root van het project en voer uit:
 ```bash
 git add .
 ```
 
-###Committen
+### Committen
 ```bash
 git commit -m "boodschap"
 ```
 
-###Committen
+### Committen
 ```bash
 git push
 ```
+
+Vind je het lastig? [lees meer!](https://git-scm.com/docs/gittutorial)

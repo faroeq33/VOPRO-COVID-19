@@ -1,3 +1,7 @@
+<?php 
+require ROOT . "init.php";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,14 +9,13 @@
 	<title>Countries</title>
 </head>
 <body>
-	<a href="index.php">Terug naar home</a>
+	<a href="<?php echo ROOT . '../index.php'; ?>">Terug naar home</a>
 	
-	<?php
-	require 'init.php';
+	<?
 
 	$input = "countries";
 
-	include "request.php";
+	include "../request.php";
 	?>
 </body>
 </html>

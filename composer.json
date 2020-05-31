@@ -1,0 +1,17 @@
+{
+	"name": "faroeq33/vopro-covid-19",
+	"authors": [
+		{
+			"name": "faroeq-linux-new",
+			"email": "alves_1044@hotmail.com"
+		}
+	],
+	"require": {
+		"mashape/unirest-php": "^3.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"VOPRO\\":"src/"
+		}
+	}
+}

@@ -7,10 +7,9 @@
 <body>
 	<h1>Covid-19 API</h1>
 	<ul>
-		<li><a href="<? echo ROOT . "view/History.php";?>">History</a></li>
-		<li><a href="<? echo ROOT . "view/Countries.php";?>">Countries</a></li>
-		<li><a href="<? echo ROOT . "view/Statistics.php";?>">Statistics</a></li>
+		<li><a href="http://localhost/Projecten/COVID-191.1/view/History.php";>History</a></li>
+		<li><a href="http://localhost/Projecten/COVID-191.1/view/Countries.php";>Countries</a></li>
+		<li><a href="http://localhost/Projecten/COVID-191.1/view/Statistics.php";>Statistics</a></li>
 	</ul>
 </body>
 </html>
-

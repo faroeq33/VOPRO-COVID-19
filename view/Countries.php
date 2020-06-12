@@ -1,5 +1,5 @@
-<?php 
-require "../init.php";
+<?php
+require   "../init.php";
 ?>
 
 <!DOCTYPE html>
@@ -9,9 +9,9 @@ require "../init.php";
 	<title>Countries</title>
 </head>
 <body>
-	<a href="<? echo ROOT . "index.php"?>">Terug naar home</a>
-	
-	<?
+	<a href="Home.php">Terug naar home</a>
+
+	<?php
 
 	$input = "countries";
 
@@ -19,5 +19,3 @@ require "../init.php";
 	?>
 </body>
 </html>
-
-

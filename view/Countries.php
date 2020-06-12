@@ -1,5 +1,5 @@
 <?php 
-require ROOT . "init.php";
+require "../init.php";
 ?>
 
 <!DOCTYPE html>
@@ -9,7 +9,7 @@ require ROOT . "init.php";
 	<title>Countries</title>
 </head>
 <body>
-	<a href="<?php echo ROOT . '../index.php'; ?>">Terug naar home</a>
+	<a href="<? echo ROOT . "index.php"?>">Terug naar home</a>
 	
 	<?
 

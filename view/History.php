@@ -8,7 +8,7 @@ require '../init.php';
 	<title>History</title>
 </head>
 <body>
-	<a href="../index.php">Terug naar home</a>
+	<a href="<? echo ROOT . "index.php"?>">Terug naar home</a>
 	
 	<?php  
 

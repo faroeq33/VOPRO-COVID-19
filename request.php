@@ -1,11 +1,11 @@
 <?php 
 require_once 'vendor/autoload.php';
 
-Use VOPRO\Jsonconversie as Jsonconversie;
+use VOPRO\Jsonconversie as Jsonconversie;
 
-echo "<h1>" . $input . "</h1>";
+echo "<h1>Input: " . $input . "</h1>";
 
-$response = Unirest\Request::get("https://covid-193.p.rapidapi.com/history?day=2020-04-05&country=" . $input,
+$response = Unirest\Request::get("https://covid-193.p.rapidapi.com/" . $input,
 	array(
 		"X-RapidAPI-Host" => "covid-193.p.rapidapi.com",
 		"X-RapidAPI-Key" => "86dff1ac42mshb72e16d1ea5da03p1af417jsnfe3f86abc684"

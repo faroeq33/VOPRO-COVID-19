@@ -6,4 +6,4 @@ require "vendor/autoload.php";
 Global variables
 Global variables MUST be in capital letters!
 */
-define('ROOT','http://localhost/VOPRO-COVID-19/');
+define('ROOT','http://localhost/VOPRO-COVID-19/');// Dit moet je veranderen naar je project path. Plak / erbij!

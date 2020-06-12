@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb7e4560-900f-4918-a0c1-f9aab9a53586" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/response.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/init.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/request.php" beforeDir="false" afterPath="$PROJECT_DIR$/request.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Countries.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/Countries.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/History.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/History.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +107,14 @@
       <screen x="0" y="33" width="1920" height="1047" />
     </state>
     <state width="1920" height="241" key="GridCell.Tab.0.right/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1591963441281" />
+    <state x="634" y="119" width="642" height="817" key="NewPhpClassDialog" timestamp="1591964955012">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state x="634" y="119" width="642" height="817" key="NewPhpClassDialog/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1591964955012" />
+    <state x="669" y="419" width="571" height="217" key="NewPhpFileDialog" timestamp="1591964961921">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state x="669" y="419" width="571" height="217" key="NewPhpFileDialog/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1591964961921" />
     <state x="539" y="33" width="840" height="1045" key="search.everywhere.popup" timestamp="1591963666624">
       <screen x="0" y="33" width="1920" height="1047" />
     </state>

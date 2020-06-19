@@ -1,0 +1,18 @@
+{% extends "core.html.twig" %}
+
+{% block content %}
+	<a href="{{ root }}">Terug naar home</a>
+
+	<form action="{{ root }}cruds/searchCountry2.php" method="post">
+		<select id="country" name="country">
+			{% for country in countries %}
+				<option value="{{ country }}">
+					{{ country }}
+				</option>
+			{% endfor %}
+
+			<input type="submit" value="verzenden">
+		</select>
+	</form>
+{% endblock %}
+

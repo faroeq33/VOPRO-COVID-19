@@ -1,10 +1,11 @@
 <?php
 require "../init.php";
 
-$country = $_POST['countries'];
+//$country = $_POST['countries'];
 
+$input = $_POST['country'];
 
-$input = "history?day=2020-05-29&country=" . $country;// nog wijzigen voor history
+$input = "history?day=2020-05-29&country=" . $input;// nog wijzigen voor history
 
 $response = Unirest\Request::get("https://covid-193.p.rapidapi.com/" . $input,
 	array(
@@ -13,13 +14,14 @@ $response = Unirest\Request::get("https://covid-193.p.rapidapi.com/" . $input,
 	)
 );
 
-$data = [
-    "response" => $response,
-    "input" => $input
-];
-
 echo "<pre>";
 print_r($response);
 echo "</pre>";
 
-echo $twig->render("history.html.twig", $data);
+$data = [
+    "response" => $response,
+    "input" => $input,
+];
+
+
+echo $twig->render("searchcountry2.html.twig", $data);

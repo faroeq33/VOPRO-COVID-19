@@ -18,5 +18,4 @@ $data = [
     "countries" => $countries
 ];
 
-
-echo $twig->render("countries.html.twig", $data);// nog twig bestand aanmaken voor country
+echo $twig->render("searchcountry1.html.twig", $data);// nog twig bestand aanmaken voor country

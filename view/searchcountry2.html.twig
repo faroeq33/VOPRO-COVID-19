@@ -1,12 +1,6 @@
 {% extends "core.html.twig" %}
 
 {% block content %}
-	<a href="">Terug naar home</a>
-
-		<ul>
-	{% for country in countries %}
-			<li>{{ country }}</li>
-	{% endfor %}
-		</ul>
+	<a href="{{ root }}">Terug naar home</a>
 {% endblock %}
 

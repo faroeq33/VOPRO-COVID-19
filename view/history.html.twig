@@ -1,20 +1,5 @@
-<?php 
-require '../init.php';
-?>
+{% extends "core.html.twig" %}
 
-<!DOCTYPE html>
-<head>
-	<meta charset="UTF-8">
-	<title>History</title>
-</head>
-<body>
+{% block content %}
 	<a href="../index.php">Terug naar home</a>
-	
-	<?php  
-
-	$input = "";
-
-	include "../request.php";
-	?>
-</body>
-</html>
+{% endblock %}

@@ -1,7 +1,7 @@
 <?php
 require "../init.php";
 
-$input = "countries";// TODO: nog uitzoeken hoe je 1 country opzoekt
+$input = "countries";
 
 $response = Unirest\Request::get("https://covid-193.p.rapidapi.com/" . $input,
 	array(

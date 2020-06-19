@@ -1,0 +1,20 @@
+vr 29 mei 
+- Je kunt nu alle landen zien
+- je kunt ook de History zien
+- je kunt ook de statistieken zien
+- Branch 1.1 aangemaakt
+
+vr 12 juni 
+- Github versiebeheer
+- 1.1 branch
+- debug
+- nieuwe functie bedacht
+
+vr 19 juni
+- nieuwe functie ontworpen
+- layout aangepakt
+- code gesimplificeerd
+- werkend gemaakt op zowel Linux, als Windows
+- Arrays gefilterd
+- overzichtelijkheid verbeterd
+- gebruiksvriendelijkheid verbeterd

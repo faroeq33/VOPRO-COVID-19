@@ -1,5 +1,0 @@
-vr 29 mei 
-- Je kunt nu alle landen zien
-- je kunt ook de History zien
-- je kunt ook de statistieken zien
-- Branch 1.1 aangemaakt

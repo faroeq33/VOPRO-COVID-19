@@ -5,6 +5,9 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/mashape/unirest-php" />
       <path value="$PROJECT_DIR$/../../lib/php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
     </include_path>
   </component>
 </project>

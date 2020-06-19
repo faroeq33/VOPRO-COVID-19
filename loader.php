@@ -2,9 +2,8 @@
 
 
 
-$projectfolder = '/opt/lampp/htdocs/VOPRO-COVID-19';
 /* loader settings */
-$loader = new \Twig\Loader\FilesystemLoader('view', $projectfolder);
+$loader = new \Twig\Loader\FilesystemLoader('view', "D:/XAMPP/htdocs/Projecten/VOPRO-COVID-19");
 
 $twig = new \Twig\Environment($loader, [
     'debug' => true
@@ -14,7 +13,7 @@ $twig->addExtension(new \Twig\Extension\DebugExtension());
 /* loader settings  */
 
 //globals
-CONST ROOT = 'http://localhost/VOPRO-COVID-19/';
+CONST ROOT = 'http://localhost/Projecten/VOPRO-COVID-19/';
 $twig->addGlobal('root', ROOT);
 
 
@@ -30,4 +29,3 @@ $imgPathFunction = new \Twig\TwigFunction('img', function ( $nameStylesheet ) {
 });
 $twig->addFunction($imgPathFunction);
 /* functions */
-

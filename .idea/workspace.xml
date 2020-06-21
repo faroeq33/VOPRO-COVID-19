@@ -2,16 +2,668 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb7e4560-900f-4918-a0c1-f9aab9a53586" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/view/searchcountry1.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Ubuntu_Condensed/UFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Ubuntu_Condensed/UbuntuCondensed-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat/Montserrat-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/abstracts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/abstracts/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/abstracts/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/abstracts/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/base/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/base/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/base/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/components/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/layout/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/layout/_navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/pages/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/pages/_home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/themes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/themes/_default.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/vendors/custom-bootstrap/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Country.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.babelrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.bundlewatch.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.github/CODEOWNERS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.github/ISSUE_TEMPLATE/bug.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.github/ISSUE_TEMPLATE/feature.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.github/SUPPORT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.github/workflows/codeql.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.github/workflows/test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.stylelintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/.stylelintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/babel-helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/banner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/build-plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/change-version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/generate-sri.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/ship.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/svgo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/vnu-jar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/build/zip-examples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/alert.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/button.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/carousel.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/collapse.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/dropdown.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/modal.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/popover.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/scrollspy.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/tab.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/toast.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/tooltip.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/dist/util.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/tools/sanitizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/browsers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/integration/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/integration/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/integration/rollup.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/unit/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/alert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/collapse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/dropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/popover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/scrollspy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/tab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/toast.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/js/tests/visual/tooltip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/nuget/MyGet.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/nuget/bootstrap.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/nuget/bootstrap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/nuget/bootstrap.sass.nuspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/package.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_interactions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/scss/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/breakpoints.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/browser-bugs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/browser-features.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/colors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/core-team.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/docs-versions.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/examples.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/grays.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/nav.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/theme-colors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_data/translations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/ads.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/bugify.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/callout-danger-async-methods.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/callout-info-mediaqueries-breakpoints.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/callout-info-prefersreducedmotion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/callout-warning-color-assistive-technologies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/callout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/docs-navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/docs-sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/favicons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/bootstrap-stack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/bootstrap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/circle-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/cloud-fill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/droplet-fill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/opencollective.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/placeholder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/slack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/icons/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/scripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/skippy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/social.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_includes/stylesheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_layouts/docs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_layouts/examples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_layouts/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/_layouts/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/about/brand.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/about/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/about/overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/about/team.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/about/translations.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/brand/bootstrap-outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/brand/bootstrap-punchout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/brand/bootstrap-social-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/brand/bootstrap-social.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/brand/bootstrap-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/css/docs.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/css/docs.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/bootstrap-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/bootstrap-icons@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/bootstrap-themes-collage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/bootstrap-themes-collage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/bootstrap-themes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/bootstrap-themes@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/album@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/blog@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/carousel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/carousel@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/checkout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/checkout@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/cover@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/dashboard@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/floating-labels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/floating-labels@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/grid@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/jumbotron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/jumbotron@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/navbar-bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/navbar-bottom@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/navbar-fixed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/navbar-fixed@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/navbar-static.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/navbar-static@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/navbars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/navbars@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/offcanvas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/offcanvas@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/pricing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/pricing@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/product@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/sign-in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/sign-in@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/starter-template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/starter-template@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/sticky-footer-navbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/sticky-footer-navbar@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/sticky-footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/examples/sticky-footer@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/mstile-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/mstile-310x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/mstile-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/mstile-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/img/favicons/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/js/docs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/js/src/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/js/src/ie-emulation-modes-warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/js/src/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/js/vendor/anchor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/js/vendor/bs-custom-file-input.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/js/vendor/clipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/js/vendor/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_ads.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_algolia.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_anchor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_brand.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_browser-bugs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_callouts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_clipboard-js.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_component-examples.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_masthead.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_placeholder-img.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_skippy.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_syntax.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/assets/scss/docs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/browser-bugs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/alerts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/badge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/breadcrumb.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/button-group.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/buttons.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/card.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/carousel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/collapse.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/dropdowns.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/forms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/input-group.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/jumbotron.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/list-group.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/media-object.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/modal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/navbar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/navs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/pagination.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/popovers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/progress.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/scrollspy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/spinners.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/toasts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/components/tooltips.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/content/code.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/content/figures.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/content/images.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/content/reboot.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/content/tables.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/content/typography.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/.stylelintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/album/album.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/album/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/blog/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/carousel/carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/carousel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/checkout/form-validation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/checkout/form-validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/checkout/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/cover/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/cover/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/dashboard/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/dashboard/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/dashboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/floating-labels/floating-labels.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/floating-labels/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/grid/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/jumbotron/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/jumbotron/jumbotron.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/navbar-bottom/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/navbar-fixed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/navbar-fixed/navbar-top-fixed.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/navbar-static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/navbar-static/navbar-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/navbars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/navbars/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/offcanvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/offcanvas/offcanvas.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/offcanvas/offcanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/pricing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/pricing/pricing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/product/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/product/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/sign-in/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/sign-in/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/starter-template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/starter-template/starter-template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/sticky-footer-navbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/sticky-footer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/examples/sticky-footer/sticky-footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/extend/approach.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/extend/icons.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/getting-started/accessibility.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/getting-started/best-practices.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/getting-started/browsers-devices.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/getting-started/build-tools.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/getting-started/contents.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/getting-started/download.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/getting-started/introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/getting-started/javascript.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/getting-started/theming.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/getting-started/webpack.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/layout/grid.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/layout/overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/layout/utilities-for-layout.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/migration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/borders.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/clearfix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/close-icon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/colors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/display.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/embed.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/flex.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/float.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/image-replacement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/interactions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/overflow.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/position.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/screen-readers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/shadows.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/sizing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/spacing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/stretched-link.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/text.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/vertical-align.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/4.5/utilities/visibility.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/docs/versions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/twbs/bootstrap/site/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VOPRO-COVID-19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VOPRO-COVID-19.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cruds/searchCountry1.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/searchCountry1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cruds/searchCountry2.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/searchCountry2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loader.php" beforeDir="false" afterPath="$PROJECT_DIR$/loader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/core.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/core.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/countries.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/countries.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/history.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/history.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/home.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/searchcountry2.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/searchcountry2.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/stats.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/stats.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +672,9 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <executable path="composer" />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +687,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
       <path value="$PROJECT_DIR$/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/twbs/bootstrap" />
     </include_path>
   </component>
   <component name="ProjectId" id="1dD3yTAJuXzWuPWFEbTBCOaEJOp" />
@@ -49,6 +704,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cruds" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -82,7 +738,8 @@
       <workItem from="1591946091517" duration="3389000" />
       <workItem from="1591959147182" duration="654000" />
       <workItem from="1592046502985" duration="635000" />
-      <workItem from="1592561949011" duration="12906000" />
+      <workItem from="1592561949011" duration="17886000" />
+      <workItem from="1592737367150" duration="1435000" />
     </task>
     <servers />
   </component>
@@ -101,6 +758,18 @@
       <screen x="0" y="33" width="1920" height="1047" />
     </state>
     <state x="460" y="33" width="1000" height="983" key="#PHP/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1591946485269" />
+    <state x="627" y="205" width="655" height="645" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592580755664">
+      <screen x="0" y="33" width="1920" height="983" />
+    </state>
+    <state x="627" y="205" width="655" height="645" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.33.1920.983/0.1080.1920.1080@0.33.1920.983" timestamp="1592580755664" />
+    <state x="626" y="1341" width="658" height="501" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592738291734">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="626" y="1341" width="658" height="501" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.33.1920.1047/0.1080.1920.1080@0.1080.1920.1080" timestamp="1592738291734" />
+    <state x="597" y="1474" width="716" height="235" key="ComposerInitDialogKey" timestamp="1592738745344">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="597" y="1474" width="716" height="235" key="ComposerInitDialogKey/0.33.1920.1047/0.1080.1920.1080@0.1080.1920.1080" timestamp="1592738745344" />
     <state x="776" y="248" key="FileChooserDialogImpl" timestamp="1592562586550">
       <screen x="0" y="33" width="1920" height="983" />
     </state>
@@ -123,15 +792,20 @@
       <screen x="0" y="33" width="1920" height="1047" />
     </state>
     <state width="1920" height="241" key="GridCell.Tab.0.right/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1591946407408" />
+    <state x="610" y="1183" width="690" height="817" key="NewPhpClassDialog" timestamp="1592738312804">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="610" y="1183" width="690" height="817" key="NewPhpClassDialog/0.33.1920.1047/0.1080.1920.1080@0.1080.1920.1080" timestamp="1592738312804" />
     <state x="669" y="395" width="561" height="217" key="NewPhpFileDialog" timestamp="1592569833148">
       <screen x="0" y="33" width="1920" height="983" />
     </state>
     <state x="669" y="419" width="571" height="217" key="NewPhpFileDialog/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1592562048077" />
     <state x="669" y="395" width="561" height="217" key="NewPhpFileDialog/0.33.1920.983/0.1080.1920.1080@0.33.1920.983" timestamp="1592569833148" />
-    <state x="539" y="33" width="840" height="981" key="search.everywhere.popup" timestamp="1592575184394">
-      <screen x="0" y="33" width="1920" height="983" />
+    <state x="539" y="1080" width="840" height="1078" key="search.everywhere.popup" timestamp="1592737595982">
+      <screen x="0" y="1080" width="1920" height="1080" />
     </state>
+    <state x="539" y="1080" width="840" height="1078" key="search.everywhere.popup/0.33.1920.1047/0.1080.1920.1080@0.1080.1920.1080" timestamp="1592737595982" />
     <state x="539" y="33" width="840" height="1045" key="search.everywhere.popup/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1591961099686" />
-    <state x="539" y="33" width="840" height="981" key="search.everywhere.popup/0.33.1920.983/0.1080.1920.1080@0.33.1920.983" timestamp="1592575184394" />
+    <state x="539" y="33" width="840" height="981" key="search.everywhere.popup/0.33.1920.983/0.1080.1920.1080@0.33.1920.983" timestamp="1592581382069" />
   </component>
 </project>

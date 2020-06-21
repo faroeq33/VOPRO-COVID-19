@@ -14,12 +14,14 @@ $response = Unirest\Request::get("https://covid-193.p.rapidapi.com/" . $input,
 	)
 );
 
+$country = (array) $response->body->response[0];
+
 echo "<pre>";
-print_r($response);
+var_dump($country);
 echo "</pre>";
 
 $data = [
-    "response" => $response,
+    "country" => $country,
     "input" => $input,
 ];
 

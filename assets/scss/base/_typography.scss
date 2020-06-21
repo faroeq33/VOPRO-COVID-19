@@ -1,0 +1,15 @@
+/** * Basic typography style for copy text
+ */
+body {
+  color: $text-color;
+  font: normal 125% / 1.4 $text-font-stack;
+}
+
+.footer{
+	font-family: $footer-font-stack;
+}
+
+.h1{
+	font-family: $header-font-stack;
+	font-size: $h1-font-size;
+}

@@ -8,11 +8,15 @@
 	],
 	"require": {
 		"mashape/unirest-php": "^3.0",
-		"twig/twig": "^3.0"
+		"twig/twig": "^3.0",
+		"ext-json": "*"
 	},
 	"autoload": {
 		"psr-4": {
 			"VOPRO\\":"src/"
 		}
-	}
+	},
+	"scripts": {
+        "dalo": "composer dumpautoload -o"
+    }
 }

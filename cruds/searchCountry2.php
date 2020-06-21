@@ -1,11 +1,9 @@
 <?php
 require "../init.php";
 
-//$country = $_POST['countries'];
-
 $input = $_POST['country'];
 
-$input = "history?day=2020-05-29&country=" . $input;// nog wijzigen voor history
+$input = "history?day=2020-06-19&country=" . $input;// nog wijzigen voor history
 
 $response = Unirest\Request::get("https://covid-193.p.rapidapi.com/" . $input,
 	array(

@@ -1,0 +1,19 @@
+Show Countries werkend, MAAR
+Cases, Deaths en Tests moeten zichtbaar worden.
+
+Search Country 1 werkend
+Search Country 2 NIET 
+
+ShowHistory NIET
+ShowStats NIET
+
+
+Maakt Gebruik van nieuwe API.php 
+
+TO DO:
+- Alle Pagina's werkend maken
+- Functioneel ZONDER ERRORS
+
+// Eventuele Animaties/\Side Panel Menu //
+
+**Eventuele Kleurencombinaties of andere/nieuwe layout ideeën bespreken** 

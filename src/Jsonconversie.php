@@ -13,9 +13,15 @@ class Jsonconversie
 
     }
 
-    public function convertToPHParray( ) 
+    public function convertToJson()
     {
-        $phpFileContents = json_decode($this->input, true);// json to php array conversion
+        $this->json = json_encode($this->input);
+    }
+
+
+    public function convertToPHParray()
+    {
+        $phpFileContents = json_decode($this->json, true);// json to php array conversion
 
         $this->data = $phpFileContents;
     }

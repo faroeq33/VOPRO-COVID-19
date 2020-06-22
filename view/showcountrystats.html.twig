@@ -1,0 +1,43 @@
+{% extends "core.html.twig" %}
+
+{% block content %}
+    <a href="{{ root }}">Terug naar home</a>
+    <ul>
+        <pre>
+{#            {{ dump(cases) }}#}
+        </pre>
+
+        <ul>
+            <table>
+                {% for key, value in stats  %}
+                    <tr>
+                        <td>{{ key }}</td>
+                        <td>{{ value }}</td>
+                    </tr>
+
+                {% endfor %}
+                {% for key, value in cases  %}
+                    <tr>
+                        <td>{{ key }}</td>
+                        <td>{{ value }}</td>
+                    </tr>
+
+                {% endfor %}
+                {% for key, value in deaths  %}
+                    <tr>
+                        <td>{{ key }}</td>
+                        <td>{{ value }}</td>
+                    </tr>
+
+                {% endfor %}
+                {% for key, value in tests  %}
+                    <tr>
+                        <td>{{ key }}</td>
+                        <td>{{ value }}</td>
+                    </tr>
+
+                {% endfor %}
+            </table>
+        </ul>
+    </ul>
+{% endblock %}

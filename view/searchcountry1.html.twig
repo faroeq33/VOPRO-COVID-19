@@ -1,18 +1,29 @@
 {% extends "core.html.twig" %}
 
 {% block content %}
-	<a href="{{ root }}">Terug naar home</a>
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<div class="h2">Zoek een land</div>
+				<a href="{{ root }}" class="btn btn-info mb">Terug naar home</a>
 
-	<form action="{{ root }}cruds/searchCountry2.php" method="post">
-		<select id="country" name="country">
-			{% for country in countries %}
-				<option value="{{ country }}">
-					{{ country }}
-				</option>
-			{% endfor %}
+				<form action="{{ root }}cruds/searchCountry2.php" method="post">
+					<div class="form-group">
+						<select class="form-control" id="exampleFormControlSelect1" id="country" name="country">
+							{% for country in countries %}
+								<option value="{{ country }}">
+									{{ country }}
+								</option>
+							{% endfor %}
 
-			<input type="submit" value="verzenden">
-		</select>
-	</form>
+							<input type="submit" value="verzenden" class="btn btn-primary mt">
+						</select>
+					</div>
+				</form>
+			</div>
+		</div>
+
+
+	</div>
 {% endblock %}
 

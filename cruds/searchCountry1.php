@@ -1,21 +1,14 @@
 <?php
 require "../init.php";
 
-$input = "countries";
+use VOPRO\Api as Api;
 
-$response = Unirest\Request::get("https://covid-193.p.rapidapi.com/" . $input,
-	array(
-		"X-RapidAPI-Host" => "covid-193.p.rapidapi.com",
-		"X-RapidAPI-Key" => "86dff1ac42mshb72e16d1ea5da03p1af417jsnfe3f86abc684"
-	)
-);
+$countrystats = new Api();
 
-$countries = $response->body->response;
 
 $data = [
-    "response" => $response,
-    "input" => $input,
-    "countries" => $countries
+    "countries" => $countrystats->getAllCountries()
 ];
 
-echo $twig->render("searchcountry1.html.twig", $data);// nog twig bestand aanmaken voor country
+echo $twig->render("searchcountry1.html.twig", $data);
+

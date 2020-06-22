@@ -1,0 +1,20 @@
+{
+  "name": "VOPRO-COVID-19",
+  "version": "1.0.0",
+  "description": "## Project clonen",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass assets/scss/main.scss assets/css/main.css --watch -c --style=compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faroeq33/VOPRO-COVID-19.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faroeq33/VOPRO-COVID-19/issues"
+  },
+  "homepage": "https://github.com/faroeq33/VOPRO-COVID-19#readme"
+}

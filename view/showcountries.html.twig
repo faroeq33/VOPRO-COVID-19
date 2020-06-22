@@ -1,0 +1,29 @@
+{% extends "core.html.twig" %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <a href="{{ root }}" class="btn btn-outline-primary mb">Terug naar home</a>
+
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th scope="col">Countries</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for country in countries %}
+                        <tr scope="row">
+
+                            <td><a href="{{ root }}cruds/showCountries2.php?country={{ country }}">{{ country }}</a></td>
+
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

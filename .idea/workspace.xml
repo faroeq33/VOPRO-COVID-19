@@ -2,31 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb7e4560-900f-4918-a0c1-f9aab9a53586" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cruds/showCountries1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cruds/showCountries2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/showcountrystats.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/showcountrystats2.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/VOPRO-COVID-19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VOPRO-COVID-19.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/components/_customtable.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/layout/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cruds/searchCountry1.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/searchCountry1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/base/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/base/_helpers.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cruds/searchCountry2.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/searchCountry2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cruds/showCountries.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cruds/showHistory.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/showHistory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cruds/showStats.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/showStats.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jsonconversie.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jsonconversie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/countries.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/showcountries.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cruds/showCountries1.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/showCountries1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cruds/showCountries2.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/showCountries2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/core.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/core.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/home.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/searchcountry1.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/searchcountry1.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/stats.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/showcountries.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/showcountries1.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/showcountrystats.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/showcountrystats2.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/showcountries2.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,17 +63,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cruds" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/scss/components" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cruds" />
-      <recent name="$PROJECT_DIR$/view" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cruds" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/scss/components" />
+      <recent name="$PROJECT_DIR$/cruds" />
+      <recent name="$PROJECT_DIR$/view" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Statistics.php">
@@ -179,16 +171,21 @@
     </state>
     <state x="669" y="419" width="571" height="217" key="NewPhpFileDialog/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1592562048077" />
     <state x="669" y="395" width="561" height="217" key="NewPhpFileDialog/0.33.1920.983/0.1080.1920.1080@0.33.1920.983" timestamp="1592836970895" />
+    <state x="621" y="1256" width="675" height="655" key="StructurePopup" timestamp="1593115384069">
+      <screen x="0" y="33" width="1920" height="2063" />
+    </state>
+    <state x="621" y="1256" width="675" height="655" key="StructurePopup/0.33.1920.2063@0.33.1920.2063" timestamp="1593115384069" />
     <state x="521" y="176" width="875" height="604" key="recent.locations.popup" timestamp="1592853618341">
       <screen x="0" y="33" width="1920" height="983" />
     </state>
     <state x="521" y="1237" width="875" height="663" key="recent.locations.popup/0.33.1920.1047/0.1080.1920.1080@0.1080.1920.1080" timestamp="1592828929141" />
     <state x="521" y="176" width="875" height="604" key="recent.locations.popup/0.33.1920.983@0.33.1920.983" timestamp="1592853618341" />
-    <state x="539" y="33" width="878" height="981" key="search.everywhere.popup" timestamp="1592854147499">
-      <screen x="0" y="33" width="1920" height="983" />
+    <state x="539" y="33" width="888" height="2059" key="search.everywhere.popup" timestamp="1593115916657">
+      <screen x="0" y="33" width="1920" height="2063" />
     </state>
     <state x="539" y="1080" width="840" height="1078" key="search.everywhere.popup/0.33.1920.1047/0.1080.1920.1080@0.1080.1920.1080" timestamp="1592828431654" />
     <state x="539" y="33" width="840" height="1045" key="search.everywhere.popup/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1591961099686" />
+    <state x="539" y="33" width="888" height="2059" key="search.everywhere.popup/0.33.1920.2063@0.33.1920.2063" timestamp="1593115916657" />
     <state x="539" y="33" width="840" height="981" key="search.everywhere.popup/0.33.1920.983/0.1080.1920.1080@0.33.1920.983" timestamp="1592838967393" />
     <state x="539" y="33" width="878" height="981" key="search.everywhere.popup/0.33.1920.983@0.33.1920.983" timestamp="1592854147499" />
     <state x="547" y="33" width="890" height="2059" key="search.everywhere.popup/0.33.1947.2063@0.33.1947.2063" timestamp="1592848666700" />

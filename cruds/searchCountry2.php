@@ -14,7 +14,6 @@ $response = Unirest\Request::get("https://covid-193.p.rapidapi.com/" . $input,
 
 $country = (array) $response->body->response[0];
 
-
 $data = [
     "country" => $country,
     "input" => $input,

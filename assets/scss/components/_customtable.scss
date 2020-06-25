@@ -1,0 +1,10 @@
+.plus{
+	color: red;
+}
+
+.listhover:hover{
+	width: 100%;
+	background-color: darken(lightgrey, 5%);
+	transition: ease-in-out .2s;
+
+}

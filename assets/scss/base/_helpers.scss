@@ -60,12 +60,7 @@
 
 .mb{ margin-bottom: $grid-gutter-width; }
 .mt{ margin-top: $grid-gutter-width; }
-.ml{
-  margin-left: $grid-gutter-width;
-  &--small{
-    margin-left: 20px;
-  }
-}
+.ml{ margin-left: $grid-gutter-width; }
 .mr{ margin-right: $grid-gutter-width; }
 
 .pt{ padding-top: $grid-gutter-width; }

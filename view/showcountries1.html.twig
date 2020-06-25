@@ -4,19 +4,20 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <a href="{{ root }}" class="btn btn-outline-primary mb">Terug naar home</a>
+                <a href="{{ root }}" class="btn btn-outline-primary mb mt">Terug naar home</a>
 
-                <table class="table">
+                <table class="table table-striped">
                     <thead>
                     <tr>
-                        <th scope="col">Countries</th>
+                        <th scope="col" ><h1 class="h1 text-center">Countries</h1></th>
                     </tr>
                     </thead>
                     <tbody>
                     {% for country in countries %}
                         <tr scope="row">
-
-                            <td><a href="{{ root }}cruds/showCountries2.php?country={{ country }}">{{ country }}</a></td>
+                            <td class="listhover">
+                                <a href="{{ root }}cruds/showCountries2.php?country={{ country }}">{{ country }}</a>
+                            </td>
 
                         </tr>
                     {% endfor %}

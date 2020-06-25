@@ -10,4 +10,4 @@ $data = [
     "countries" => $countries->getAllCountries()
 ];
 
-echo $twig->render("showcountries.html.twig", $data);
+echo $twig->render("showcountries1.html.twig", $data);

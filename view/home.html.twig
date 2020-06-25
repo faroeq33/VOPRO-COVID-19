@@ -1,15 +1,29 @@
 {% extends "core.html.twig" %}
 
 {% block content %}
-	<a href="{{ root }}">Terug naar home</a>
+	<a href="{{ root }}">
+		<h1 class="h1 mt">Covid-19 API</h1>
+	</a>
 
-	<h1>Covid-19 API</h1>
+	<nav>
+		<ul class="nav nav-pills flex-column">
+			<li class="nav-item">
+				<a class="nav-link {{ home ? 'active' }}" href="{{ root }}cruds/searchCountry1.php">Home</a>
+			</li>
 
-	<ul>
-		<li><a href="{{ root }}cruds/searchCountry1.php">Search Country</a></li>
-		<li><a href="{{ root }}cruds/showCountries1.php">Countries</a></li>
-		<li><a href="{{ root }}cruds/showHistory.php">History</a></li>
-		<li><a href="{{ root }}cruds/showStats.php">Statistics</a></li>
-	</ul>
+			<li class="nav-item">
+				<a class="nav-link" href="{{ root }}cruds/searchCountry1.php">Search Country</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="{{ root }}cruds/showCountries1.php">Countries</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link disabled" href="{{ root }}cruds/showHistory.php">History</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link disabled" href="{{ root }}cruds/showStats.php">Statistics</a>
+			</li>
+		</ul>
+	</nav>
 
 {% endblock %}

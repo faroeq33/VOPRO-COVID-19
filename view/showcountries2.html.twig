@@ -1,0 +1,46 @@
+{% extends "core.html.twig" %}
+
+{% block content %}
+    <a href="{{ root }}" class="btn btn-outline-primary mt">Terug naar home</a>
+
+    <table class="table table-striped table-light">
+        <thead><th class="h2 text-center" colspan="2">{{ country }}</th></thead>
+        <tbody>
+        <td class="h2 mb" colspan="2">Stats</td>
+        {% for key, value in stats  %}
+            <tr>
+                <td class="text-capitalize">{{ key }}</td>
+                <td>{{ value }}</td>
+            </tr>
+        {% endfor %}
+
+        <td class="h2 mb" colspan="2">Cases</td>
+
+        {% for key, value in cases  %}
+            <tr>
+                <td class="text-capitalize">{{ key }}</td>
+                <td class="{{ loop.first ? 'plus bg-danger text-light' }}">{{ value }}</td>
+            </tr>
+        {% endfor %}
+
+        <td class="h2 mb">Deaths</td>
+
+        {% for key, value in deaths  %}
+            <tr class="{{ plus }}">
+                <td class="text-capitalize">{{ key }}</td>
+                <td class="{{ loop.first ? 'plus bg-danger text-light' }}">{{ value }}</td>
+            </tr>
+        {% endfor %}
+
+        <td class="h2 mb">Tests</td>
+        {% for key, value in tests  %}
+            <tr>
+                <td class="text-capitalize">{{ key }}</td>
+                <td>{{ value }}</td>
+            </tr>
+        {% endfor %}
+
+        </tbody>
+    </table>
+
+{% endblock %}

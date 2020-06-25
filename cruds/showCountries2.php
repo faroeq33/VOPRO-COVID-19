@@ -16,6 +16,7 @@ foreach ($stats as $key => $value){
 }
 
 $data = [
+    "country" => $_GET['country'],
     "stats" => $statsCopy,
     "cases" => $stats["cases"],
     "deaths" => $stats["deaths"],
@@ -23,4 +24,4 @@ $data = [
 
 ];
 
-echo $twig->render("showcountrystats.html.twig", $data);
+echo $twig->render("showcountries2.html.twig", $data);

@@ -1,10 +1,10 @@
-vr 29 mei 
+vr 29 mei
 - Je kunt nu alle landen zien
 - je kunt ook de History zien
 - je kunt ook de statistieken zien
 - Branch 1.1 aangemaakt
 
-vr 12 juni 
+vr 12 juni
 - Github versiebeheer
 - 1.1 branch
 - debug
@@ -18,3 +18,17 @@ vr 19 juni
 - Arrays gefilterd
 - overzichtelijkheid verbeterd
 - gebruiksvriendelijkheid verbeterd
+
+zo 21 juni
+- removed unnecesary scss folder and added assets folder
+
+ma 22 juni
+- To do List update
+- showcountry, api class, jsonclass aangepast, searchcountry
+
+do 25 juni
+- Tabel bijgewerk showcountries, uiterlijk aangepast van alle paginas
+
+vr 26 juni
+- Alles werkend
+- lay-out update

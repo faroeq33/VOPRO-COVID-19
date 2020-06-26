@@ -5,4 +5,4 @@ $data = [
     "home" => "home"
 ];
 
-echo $twig->render("home.html.twig", $data);
+echo $twig->render("core.html.twig", $data);

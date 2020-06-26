@@ -7,7 +7,7 @@ $countries = new Api();
 
 $stats = $countries->getStatsFromCountry($_GET['country']);
 
-// In order to avoid array to string error
+// In order to avoid array to string error it extracts first level of the array
 $statsCopy = [];
 foreach ($stats as $key => $value){
     if (!is_array($value) ){
@@ -17,7 +17,7 @@ foreach ($stats as $key => $value){
 
 $data = [
     "country" => $_GET['country'],
-    "stats" => $statsCopy,
+    "stats" => $statsCopy,// To print first level of array
     "cases" => $stats["cases"],
     "deaths" => $stats["deaths"],
     "tests" => $stats["tests"]

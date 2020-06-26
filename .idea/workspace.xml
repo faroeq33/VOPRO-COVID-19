@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb7e4560-900f-4918-a0c1-f9aab9a53586" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/scss/components/_customtable.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/base/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/base/_helpers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cruds/searchCountry1.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/searchCountry1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cruds/searchCountry2.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/searchCountry2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cruds/showCountries1.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/showCountries1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cruds/showCountries2.php" beforeDir="false" afterPath="$PROJECT_DIR$/cruds/showCountries2.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/core.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/core.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/home.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/searchcountry1.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/searchcountry1.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/showcountries.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/showcountries1.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/showcountrystats.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/showcountrystats2.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/showcountries2.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/searchcountry2.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/showcountries2.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/view/showcountries2.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +102,7 @@
       <workItem from="1592737367150" duration="1435000" />
       <workItem from="1592828245933" duration="5987000" />
       <workItem from="1592843858064" duration="10953000" />
+      <workItem from="1593157064500" duration="3832000" />
     </task>
     <servers />
   </component>
@@ -180,11 +175,11 @@
     </state>
     <state x="521" y="1237" width="875" height="663" key="recent.locations.popup/0.33.1920.1047/0.1080.1920.1080@0.1080.1920.1080" timestamp="1592828929141" />
     <state x="521" y="176" width="875" height="604" key="recent.locations.popup/0.33.1920.983@0.33.1920.983" timestamp="1592853618341" />
-    <state x="539" y="33" width="888" height="2059" key="search.everywhere.popup" timestamp="1593115916657">
-      <screen x="0" y="33" width="1920" height="2063" />
+    <state x="539" y="33" width="840" height="1045" key="search.everywhere.popup" timestamp="1593161183829">
+      <screen x="0" y="33" width="1920" height="1047" />
     </state>
-    <state x="539" y="1080" width="840" height="1078" key="search.everywhere.popup/0.33.1920.1047/0.1080.1920.1080@0.1080.1920.1080" timestamp="1592828431654" />
-    <state x="539" y="33" width="840" height="1045" key="search.everywhere.popup/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1591961099686" />
+    <state x="539" y="1080" width="840" height="1078" key="search.everywhere.popup/0.33.1920.1047/0.1080.1920.1080@0.1080.1920.1080" timestamp="1593157749655" />
+    <state x="539" y="33" width="840" height="1045" key="search.everywhere.popup/0.33.1920.1047/0.1080.1920.1080@0.33.1920.1047" timestamp="1593161183829" />
     <state x="539" y="33" width="888" height="2059" key="search.everywhere.popup/0.33.1920.2063@0.33.1920.2063" timestamp="1593115916657" />
     <state x="539" y="33" width="840" height="981" key="search.everywhere.popup/0.33.1920.983/0.1080.1920.1080@0.33.1920.983" timestamp="1592838967393" />
     <state x="539" y="33" width="878" height="981" key="search.everywhere.popup/0.33.1920.983@0.33.1920.983" timestamp="1592854147499" />

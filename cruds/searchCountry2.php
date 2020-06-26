@@ -1,23 +1,28 @@
 <?php
 require "../init.php";
 
-$input = $_POST['country'];
+use VOPRO\Api as Api;
 
-$input = "history?day=2020-06-19&country=" . $input;// nog wijzigen voor history
+$country = new Api();
+$countryFormValue = $_POST['country'];
 
-$response = Unirest\Request::get("https://covid-193.p.rapidapi.com/" . $input,
-	array(
-		"X-RapidAPI-Host" => "covid-193.p.rapidapi.com",
-		"X-RapidAPI-Key" => "86dff1ac42mshb72e16d1ea5da03p1af417jsnfe3f86abc684"
-	)
-);
+$stats = $country->getStatsFromCountry( $countryFormValue );
 
-$country = (array) $response->body->response[0];
+// In order to avoid array to string error, it extracts first level of the array
+$statsCopy = [];
+foreach ($stats as $key => $value){
+    if (!is_array($value) ){
+        $statsCopy[$key] = $value;
+    }
+}
 
 $data = [
-    "country" => $country,
-    "input" => $input,
+    "country" => $countryFormValue,
+    "stats" => $statsCopy,// To print first level of array
+    "cases" => $stats["cases"],
+    "deaths" => $stats["deaths"],
+    "tests" => $stats["tests"]
+
 ];
 
-
-echo $twig->render("searchcountry2.html.twig", $data);
+echo $twig->render("showcountries2.html.twig", $data);

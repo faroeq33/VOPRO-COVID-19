@@ -7,6 +7,8 @@ $countries = new Api();
 $countries->getAllCountries();
 
 $data = [
+    "showcountries1" => "showcountries1",
+    "pageTitle" => "showcountries1",
     "countries" => $countries->getAllCountries()
 ];
 

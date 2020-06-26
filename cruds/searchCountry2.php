@@ -17,6 +17,8 @@ foreach ($stats as $key => $value){
 }
 
 $data = [
+    "searchcountry2" => "searchcountry2",
+    "pageTitle" => "searchcountry2",
     "country" => $countryFormValue,
     "stats" => $statsCopy,// To print first level of array
     "cases" => $stats["cases"],

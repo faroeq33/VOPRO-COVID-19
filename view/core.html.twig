@@ -5,40 +5,43 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>{{ pageTitle }}</title>
     {% block style %}
         <link rel="stylesheet" type="text/css" href="{{ root }}assets/css/main.css">
     {% endblock %}
 
+
 </head>
 <body>
 <div class="container">
-<a href="{{ root }}">
-    <h1 class="h1 mt">Covid-19 API</h1>
-</a>
+    <a href="{{ root }}">
+        <h1 class="h1 mt">Covid-19 API</h1>
+    </a>
 
-<nav>
-    <ul class="nav nav-pills flex-column">
-        <li class="nav-item">
-            <a class="nav-link {{ home ? 'active' }}" href="{{ root }}cruds/searchCountry1.php">Home</a>
-        </li>
+    <nav class="mb">
+        <ul class="nav nav-pills ">
+            <li class="nav-item">
+                <a class="nav-link {{ home ? 'active' }}" href="{{ root }}">Home</a>
+            </li>
 
-        <li class="nav-item">
-            <a class="nav-link" href="{{ root }}cruds/searchCountry1.php">Search Country</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{ root }}cruds/showCountries1.php">Countries</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link disabled" href="{{ root }}cruds/showHistory.php">History</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link disabled" href="{{ root }}cruds/showStats.php">Statistics</a>
-        </li>
-    </ul>
-</nav>
+            <li class="nav-item">
+                <a class="nav-link {{ searchCountry1 ? 'active' }}" href="{{ root }}cruds/searchCountry1.php">Search Country</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {{ showcountries1 ? 'active' }}" href="{{ root }}cruds/showCountries1.php">Countries</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {{ showhistory ? 'active' }}" href="{{ root }}cruds/showHistory.php">History</a>
+            </li>
+        </ul>
+    </nav>
 
     {% block content %}
+        <blockquote class="otro-blockquote">
+            <p class="mb-0"> COVID-19 is a disease caused by a new strain of coronavirus. 'CO' stands for corona, 'VI' for virus, and 'D' for disease. Formerly, this disease was referred to as '2019 novel coronavirus' or '2019-nCoV.'</p>
+            <footer class="blockquote-footer">Zo'n guy <cite title="Source Title"></cite></footer>
+        </blockquote>
     {% endblock %}
 </div>
 </body>

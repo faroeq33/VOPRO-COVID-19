@@ -6,6 +6,8 @@ use VOPRO\Api as Api;
 $countrystats = new Api();
 
 $data = [
+    "searchcountry1" => "searchcountry1",
+    "pageTitle" => "searchcountry1",
     "countries" => $countrystats->getAllCountries()
 ];
 

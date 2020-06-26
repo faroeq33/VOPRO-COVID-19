@@ -2,8 +2,8 @@
 require "../init.php";
 
 $data = [
-    "response" => $response,
-    "input" => $input
+    "showhistory"   => "showhistory",
+    "pageTitle" => "showcountries1"
 ];
 
 echo $twig->render("history.html.twig", $data);

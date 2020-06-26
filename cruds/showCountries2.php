@@ -16,6 +16,8 @@ foreach ($stats as $key => $value){
 }
 
 $data = [
+    "showcountries1" => "showcountries1",
+    "pageTitle" => "showcountries1",
     "country" => $_GET['country'],
     "stats" => $statsCopy,// To print first level of array
     "cases" => $stats["cases"],
